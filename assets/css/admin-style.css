@@ -1,0 +1,17 @@
+.wrap h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.form-table th {
+    font-weight: bold;
+    text-align: left;
+}
+
+.form-table input[type="checkbox"] {
+    margin-top: 5px;
+}
+
+.notice-success {
+    margin-top: 20px;
+}
