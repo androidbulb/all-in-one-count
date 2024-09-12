@@ -3,7 +3,7 @@
 Plugin Name: All in One Count
 Plugin URI: https://github.com/androidbulb/all-in-one-count
 Description: This is a plugin for ALL in One Count for showing registered user count and visitor count using shortcodes and this is open source plugin.
-Version: 1.0.0
+Version: 1.1.0
 Author: Rajendra Kumar Dangi
 Author URI: https://github.com/androidbulb
 */
