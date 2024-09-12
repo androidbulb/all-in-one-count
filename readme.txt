@@ -3,7 +3,7 @@ Contributors: rajendraaviation
 Tags: user count, visitor count, shortcode
 Requires at least: 5.0
 Tested up to: 6.3
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,7 +21,7 @@ All in One Count is a simple plugin to display the total number of registered us
 You can use `[No_of_registered_users]` to display registered user count and `[visitor_count]` to display visitor count.
 
 == Changelog ==
-= 1.0.0 =
+= 1.1.0 =
 * Initial release.
 
 == Upgrade Notice ==
